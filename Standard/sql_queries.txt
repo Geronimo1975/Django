@@ -1,0 +1,1 @@
+SELECT "app_generalinfo"."id", "app_generalinfo"."name", "app_generalinfo"."email", "app_generalinfo"."phone", "app_generalinfo"."address", "app_generalinfo"."about", "app_generalinfo"."image", "app_generalinfo"."resume" FROM "app_generalinfo" LIMIT 21

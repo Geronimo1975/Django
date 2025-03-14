@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center; 
+}
+.cookie-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #2f3640;
+    color: #f5f6fa;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cookie-container p {
+    font-size: 14px;
+    margin: 0;
+}
+.cookie-btn {
+    background: #e84118;
+    color: #f5f6fa;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
